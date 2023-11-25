@@ -1,0 +1,29 @@
+.top {
+    font-family:'papyrus', 'Times New Roman', Arial;
+    font-size: 50px;
+    font-weight: 800;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-bottom: -30px;
+}
+
+.recipe-list {
+    text-align: center;
+}
+
+.recipe-links {
+    display: inline-block;
+    text-align: center;
+    margin: 5px 7px;
+    border: 2px solid black;
+}
+
+.subtext {
+    font-family:'papyrus', 'Times New Roman', Arial;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: -30px;
+    padding-bottom: 30px;
+}
